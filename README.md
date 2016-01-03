@@ -22,3 +22,5 @@ import admin5.sql to your database
 
 
 将.env.example改为.env并且设置
+
+交流邮箱：cenne1986@qq.com
