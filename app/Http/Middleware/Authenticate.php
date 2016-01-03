@@ -28,6 +28,10 @@ class Authenticate {
                 return redirect()->guest('login');
             }
         }
+        if (auth()->user()->confirmed == 0) {
+            Auth::logout();
+            return redirect()->guest('login');
+        }
         $menus_id = AdminMenuRole::whereIn('role_id', function($query){            
             return $query->from(AdminAssignedRole::query()->getModel()->getTable())
                     ->select("role_id")
