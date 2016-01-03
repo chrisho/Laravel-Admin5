@@ -178,11 +178,7 @@ CREATE TABLE `xy_admin_users` (
 --
 
 INSERT INTO `xy_admin_users` (`id`, `username`, `truename`, `email`, `password`, `password_many`, `confirmation_code`, `confirmed`, `wechat`, `telephone`, `token`, `remember_token`, `created_at`, `updated_at`, `deleted_at`) VALUES
-(1, '18688381114', 'admin', 'cenne1986@qq.com', '$2y$10$ixB5rF7fjOzYcWTi1g0NjeiU3sBPfXG9Jq90X6syoiN/DsNl0KbQC', '', '59e5405953f6bef57291616e2799b83e', 1, '', '18688381114', '', '03eC2Rd4As7FNFRXZL6gPXZUeiewNkpk', 1450972800, 1451536736, NULL),
-(188, '18688381113', '何裕发2', '18688381113@admin5.cc', '$2y$10$yI.F/t96ZVuTvkQbgXOR0.nQHsZnBc1OaeDdC6gl3gla/16IvRnM6', '', '', 1, '', '18688381113', '', '', 1451553098, 1451555339, '0000-00-00 00:00:00'),
-(189, '18688381112', '何裕发', '18688381112@admin5.cc', '$2y$10$Ub5Lu6lokMZldFEYdcQqWuFbwdXd6MSOuuQ6mhpMrPCnubsGWDd9y', '', '', 1, '', '18688381112', '', '', 1451553177, 1451555334, '0000-00-00 00:00:00'),
-(190, '18688381113', '测试', '18688381113@admin5.cc', '$2y$10$0CB9QJ/p9ogttM9tCGGI4.6UUOVvkhE42D.7AlOq2dYMpWB/CLrUq', '', '', 1, '', '18688381113', '', '', 1451643031, 1451643043, '0000-00-00 00:00:00');
-
+(1, '18688381114', 'admin', 'cenne1986@qq.com', '$2y$10$ixB5rF7fjOzYcWTi1g0NjeiU3sBPfXG9Jq90X6syoiN/DsNl0KbQC', '', '59e5405953f6bef57291616e2799b83e', 1, '', '18688381114', '', '03eC2Rd4As7FNFRXZL6gPXZUeiewNkpk', 1450972800, 1451536736, NULL)
 -- --------------------------------------------------------
 
 --
