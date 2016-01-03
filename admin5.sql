@@ -178,7 +178,7 @@ CREATE TABLE `xy_admin_users` (
 --
 
 INSERT INTO `xy_admin_users` (`id`, `username`, `truename`, `email`, `password`, `password_many`, `confirmation_code`, `confirmed`, `wechat`, `telephone`, `token`, `remember_token`, `created_at`, `updated_at`, `deleted_at`) VALUES
-(1, '18688381114', 'admin', 'cenne1986@qq.com', '$2y$10$ixB5rF7fjOzYcWTi1g0NjeiU3sBPfXG9Jq90X6syoiN/DsNl0KbQC', '', '59e5405953f6bef57291616e2799b83e', 1, '', '18688381114', '', '03eC2Rd4As7FNFRXZL6gPXZUeiewNkpk', 1450972800, 1451536736, NULL)
+(1, '18688381114', 'admin', 'cenne1986@qq.com', '$2y$10$ixB5rF7fjOzYcWTi1g0NjeiU3sBPfXG9Jq90X6syoiN/DsNl0KbQC', '', '59e5405953f6bef57291616e2799b83e', 1, '', '18688381114', '', '03eC2Rd4As7FNFRXZL6gPXZUeiewNkpk', 1450972800, 1451536736, NULL);
 -- --------------------------------------------------------
 
 --
