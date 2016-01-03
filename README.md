@@ -19,3 +19,6 @@ password: 123456
 暂时数据由admin5.sql来导入
 
 import admin5.sql to your database
+
+
+将.env.example改为.env并且设置
