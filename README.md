@@ -6,6 +6,7 @@ Laravel 5 and AdminLte, set route with datatables, but now only lang for zh-cn
 帐号：18688888888
 密码：123456
 
+
 admin system's default domain: admin.admin5.cc
 account: 18688888888
 password: 123456
